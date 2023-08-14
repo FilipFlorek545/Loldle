@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Loldle/static/css/main.895c141d.css",
+    "main.js": "/Loldle/static/js/main.2c4be97f.js",
+    "static/media/LoLWallpaper.webp": "/Loldle/static/media/LoLWallpaper.681038be24d221807e73.webp",
+    "static/media/Friz Quadrata Std Regular.otf": "/Loldle/static/media/Friz Quadrata Std Regular.aff9163cc1d1a0cf84c8.otf",
+    "index.html": "/Loldle/index.html",
+    "main.895c141d.css.map": "/Loldle/static/css/main.895c141d.css.map",
+    "main.2c4be97f.js.map": "/Loldle/static/js/main.2c4be97f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.895c141d.css",
+    "static/js/main.2c4be97f.js"
+  ]
+}
